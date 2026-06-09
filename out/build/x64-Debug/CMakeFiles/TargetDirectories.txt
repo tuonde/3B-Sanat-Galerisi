@@ -1,0 +1,3 @@
+C:/Users/TUNAHAN/Desktop/BilgisayarGrafikleriProje/out/build/x64-Debug/CMakeFiles/ArtGallery3D.dir
+C:/Users/TUNAHAN/Desktop/BilgisayarGrafikleriProje/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/TUNAHAN/Desktop/BilgisayarGrafikleriProje/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

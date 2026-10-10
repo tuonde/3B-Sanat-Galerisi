@@ -10,6 +10,22 @@ Uygulama, modern OpenGL (Core Profile) mimarisi kullanılarak geliştirilmiş ol
 
 ---
 
+## 📸 Ekran Görüntüleri
+
+<p align="center">
+  <img src="images/img1.png" alt="3D Art Gallery Genel Görünüm" width="800"/>
+</p>
+
+*Galeriden genel bir görünüm ve aydınlatma efektleri:*
+
+<p align="center">
+  <img src="images/img2.png" alt="Sanat Eserleri" width="32%" />
+  <img src="images/img3.png" alt="Heykeller" width="32%" />
+  <img src="images/img4.png" alt="Galeri Detayları" width="32%" />
+</p>
+
+---
+
 ## ✨ Özellikler
 
 ### 🎮 Birinci Şahıs Kamera Sistemi
